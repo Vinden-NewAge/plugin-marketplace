@@ -403,7 +403,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Vinden-NewAge/datalum-plugin.git",
-        "sha": "ec380b36d159214fd94b0664080825ae187f1eb4"
+        "sha": "ca4bc7c3db5a76be1962c1de7474b862352555f0"
       },
       "homepage": "https://datalum.ai",
       "keywords": ["datalum", "datalum mcp", "datalum datahub"],
