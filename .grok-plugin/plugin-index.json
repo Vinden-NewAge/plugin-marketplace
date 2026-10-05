@@ -236,8 +236,8 @@
       }
     },
     "datalum": {
-      "sha": "cc9d0d6baef39d5aaf82d6e83a102b398a5a9ada",
-      "version": "2.0.1",
+      "sha": "ec380b36d159214fd94b0664080825ae187f1eb4",
+      "version": "2.0.3",
       "components": {
         "hooks": [
           {

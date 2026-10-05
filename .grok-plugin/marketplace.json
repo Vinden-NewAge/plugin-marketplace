@@ -403,11 +403,11 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Vinden-NewAge/datalum-plugin.git",
-        "sha": "cc9d0d6baef39d5aaf82d6e83a102b398a5a9ada"
+        "sha": "ec380b36d159214fd94b0664080825ae187f1eb4"
       },
       "homepage": "https://datalum.ai",
       "keywords": ["datalum", "datalum mcp", "datalum datahub"],
-      "domains": ["datalum.ai", "datahub.vinden.cc", "mcp.datahub.vinden.cc"]
+      "domains": ["datalum.ai", "mcp.datalum.ai", "api.datalum.ai", "app.datalum.ai"]
     }
   ]
 }
